@@ -4,11 +4,11 @@ Add this list to your Adblocker Plus filter list to hide annoying modal pop-ups.
 
 ## Installation 
 
-- Navigate to Adblock Plus settings in your Browser > Advanced.
+- Navigate to Adblock Plus settings in your Browser.
 
 ![AdBlocker Plus](https://github.com/GuusBaggen/ModalBlocker/blob/master/images/Install%20modal%202.png "AdBlocker Plus")
 
-- Click on +ADD A NEW FILTER LIST.
+- Navigate to "Advanced" and click on +ADD A NEW FILTER LIST.
 
 ![AdBlocker Plus 2](https://github.com/GuusBaggen/ModalBlocker/blob/master/images/Install%20modal.png "AdBlocker Plus 2")
 

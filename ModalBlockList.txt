@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Version:
-! Title:
+! Version: 1.0.0
+! Title: Modal Block List
 ! Last modified:
 ! Expires: 4 days (update frequency)
 ! Homepage:
