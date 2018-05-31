@@ -10,7 +10,7 @@ Click on +ADD A NEW FILTER LIST
 
 Give it the title you want.
 
-Paste in this URL:
+Paste in this URL: https://raw.githubusercontent.com/GuusBaggen/ModalBlocker/master/ModalBlockList.txt
 
 #### Contribute to the list!
 
