@@ -6,7 +6,7 @@ Add this list to your Adblocker Plus filter list to hide annoying modal pop-ups.
 
 - Navigate to Adblock Plus settings in your Browser > Advanced.
 
-- Click on +ADD A NEW FILTER LIST
+- Click on +ADD A NEW FILTER LIST.
 ![AdBlocker Plus 1](https://github.com/GuusBaggen/ModalBlocker/blob/master/images/Install%20modal.png "AdBlocker Plus")
 
 - Give it the title you want.
