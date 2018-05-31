@@ -1,2 +1,9 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
 coindesk.com###om-mrt6mt0mlp9ntn6y
 coindesk.com##.chicago-background.chicago-mrt6mt0mlp9ntn6y.chicago-optin-visible.chicago-full-page-takeover.chicago-entrance

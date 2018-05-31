@@ -1,6 +1,6 @@
 ## Description
 
-Add this list to your Adblocker Plus filter list to hide annoying modal pop ups to improve your browser experience. 
+Add this list to your Adblocker Plus filter list to hide annoying modal pop-ups. 
 
 ## Installation 
 
