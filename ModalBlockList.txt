@@ -7,3 +7,5 @@
 !
 coindesk.com###om-mrt6mt0mlp9ntn6y
 coindesk.com##.chicago-background.chicago-mrt6mt0mlp9ntn6y.chicago-optin-visible.chicago-full-page-takeover.chicago-entrance
+incomediary.com###pdv4overlay
+incomediary.com##.pdv4overlays
